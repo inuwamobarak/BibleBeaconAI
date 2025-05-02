@@ -30,7 +30,7 @@ POST request to `/agent/query` with the body:
 {
   "topic": "For God so loved the worled, that he.."
 }
-
+```
 #### Agent Response:
 
 ================================ Human Message =================================
