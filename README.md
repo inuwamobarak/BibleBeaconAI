@@ -1,3 +1,7 @@
+![alt text](pexels-alem-sanchez-182647-977659.jpg)
+
+
+
 # BibleBeaconAI
 BibleBeaconAI is an open-source AI Agent designed to integrate AI into Christian faith-based activities, serving as an assistant during sermons.
 
@@ -125,3 +129,7 @@ This verse emphasizes God's immense love for humanity and the gift of salvation 
 **Conclusion**
 
 Preacher's Companion aims to be a valuable tool for preachers, enhancing their ability to deliver impactful sermons. The project seeks to foster a community of contributors and users who can collaborate to improve and expand the tool's capabilities.
+
+
+Image ref:
+Photo by Alem Sánchez: https://www.pexels.com/photo/grayscale-photo-of-the-crucifix-977659/
