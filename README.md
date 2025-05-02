@@ -34,7 +34,7 @@ POST request to `/agent/query` with the body:
 }
 ```
 #### Agent Response:
-
+```json
 ================================ Human Message =================================
 
 For God so loved the worled, that he..
@@ -55,7 +55,7 @@ The verse you're referring to is John 3:16, which in the King James Version (KJV
 "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." 
 
 This verse emphasizes God's immense love for humanity and the gift of salvation through Jesus Christ.
-
+```
 --
 
 **1. Project Overview**
