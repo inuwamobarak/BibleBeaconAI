@@ -1,6 +1,4 @@
-![alt text](pexels-alem-sanchez-182647-977659.jpg)
-
-
+![alt text](portrait-plus-size-male-social-media-influencer.jpg)
 
 # BibleBeaconAI
 BibleBeaconAI is an open-source AI Agent designed to integrate AI into Christian faith-based activities, serving as an assistant during sermons.
