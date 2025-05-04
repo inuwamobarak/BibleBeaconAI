@@ -1,9 +1,7 @@
 ![alt text](portrait-plus-size-male-social-media-influencer.jpg)
 
 # BibleBeaconAI
-BibleBeaconAI is an open-source AI Agent designed to integrate AI into Christian faith-based activities, serving as an assistant during sermons.
-
-This is an open-source FastAPI project that uses an agent to process Bible queries and return relevant verses.
+BibleBeaconAI is an open-source AI Agent designed to integrate AI into Christian faith-based activities, serving as an assistant during sermons. It process Bible queries and return relevant verses.
 
 ## Installation
 
@@ -55,6 +53,7 @@ The verse you're referring to is John 3:16, which in the King James Version (KJV
 "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." 
 
 This verse emphasizes God's immense love for humanity and the gift of salvation through Jesus Christ.
+
 ```
 --
 
